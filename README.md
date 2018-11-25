@@ -1,5 +1,4 @@
-# GettingData
-Getting and Cleaning Data on Coursera Week4 project
+# Getting and Cleaning Data on Coursera Week4 project
 
 X_test,Y_test : test data
 
